@@ -2,6 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuczynskiRafal&theme=radical&layout=compact">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuczynskiRafal&exclude_repo=github-readme-stats,BuczynskiRafal.github.io)](https://github.com/BuczynskiRafal/github-readme-stats)
+
 
 
 <!--
