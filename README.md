@@ -1,3 +1,9 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+### Rafał Buczyński
 
-An adaptable and driven Python developer with a passion for using technology to solve real-world problems. Experienced in working with a diverse range of technologies, including Django, Django REST, Flask, SQLAlchemy, Pandas, Sci-kit learn, Numpy, Matplotlib, Tensorflow, Keras, Spacy, and various database systems. Skilled in backend development, API integration, machine learning, data processing, and visualization. Demonstrated success in collaborating on commercial projects, open-source contributions, and research initiatives. Committed to continuous learning and growth in software development, while bringing value to teams and projects.
+**Performance Engineer & Applied ML Researcher**
+
+I work on low-level desktop and systems performance analysis, numerical modeling, and engineering automation.
+
+- **Performance Engineering:** CPU microarchitecture exploration, assembly/PDB symbol analysis, file-system I/O and memory latency profiling (`Intel VTune`, Windows/Linux internals), and automated performance test infrastructure (`Python`, `Ansible`, `Jenkins`).
+- **Scientific Computing & Hydroinformatics:** Deep learning for physical sensor time series and infrastructure graphs (`PyTorch`, Liquid Time-Constant Networks, `GraphSAGE`, `EPA SWMM`), with peer-reviewed publications in *Water* (MDPI).
+- **Engineering & Developer Tooling:** CAD/BIM/GIS automation (`Revit API`, `FreeCAD`, `QGIS`, `GeoPackage`) and deterministic quality-gate tooling for AI coding agents.
